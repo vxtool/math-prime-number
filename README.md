@@ -1,7 +1,11 @@
 # Prime numbers
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/math-solutions/math-prime-number.svg?style=flat-square)](https://github.com/math-solutions/math-prime-number/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/math-prime-number.svg)](https://github.com/org-victorinox/math-prime-number/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/math-prime-number.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/math-prime-number.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/math-prime-number.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/math-prime-number/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/math-solutions/math-prime-number/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/math-prime-number/releases) for detailed changelog.
 
 ## License
 
